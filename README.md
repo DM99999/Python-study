@@ -8,8 +8,8 @@ matplotlib
 time  
 
 # Usage  
-実行するとフレーム毎に輝度値の平均が出力される
-Escキーで終了し、グラフを表示する
+実行するとフレーム毎に輝度値の平均が出力される  
+Escキーで終了し、グラフを表示する  
 
 # Example  
 ![ex](https://user-images.githubusercontent.com/50540539/61457390-2fe7e200-a9a3-11e9-99e3-d88b27164265.gif)  
